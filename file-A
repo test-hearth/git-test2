@@ -1,4 +1,0 @@
-test-a
-  └ test-b これがtextModalのbug回収branchに相当
-      └ test-c これを改変 あとにtest-aにマージ
-      └ test-d これも改変 さきにtest-aにマージ
